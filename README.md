@@ -1,3 +1,3 @@
 # git-lab-group
-Hello Git!
+Edited by dev-2
 Working on develop branch.
