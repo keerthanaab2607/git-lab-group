@@ -1,1 +1,1 @@
-Line 1: Updated from Git Bash CLI
+Line 1: Conflict from cli-1
